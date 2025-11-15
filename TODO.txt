@@ -1,0 +1,11 @@
+
+TODO
+==================================
+
+- I have unsuccessfully tried to generate images on the fly with the
+mermaid filter for pandoc. The issue might be related to sandboxing
+in the Ubuntu base image. It might be worth trying a different base image (e.g., debian, fedora).
+
+https://bagelquant.com/pandoc-with-mermaid/
+
+I have been unable to get this working. I may revisit this in the future.

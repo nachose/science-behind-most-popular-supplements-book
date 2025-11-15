@@ -1,0 +1,8 @@
+services:
+  book-builder:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    volumes:
+      - ./my-ebook:/app/my-ebook
+    command: make -C my-ebook

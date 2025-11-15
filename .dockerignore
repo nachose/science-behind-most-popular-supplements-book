@@ -1,0 +1,23 @@
+# Git history
+.git
+
+# IDE and editor config
+.idea
+.vscode
+
+# Generated files
+tags
+spell_report.txt
+
+# Build artifacts
+my-ebook/*.epub
+my-ebook/*.log
+
+# Files not needed in the image
+Dockerfile
+Dockerfile.debian
+docker-compose.yml
+README.md
+Checklist.md
+TODO.txt
+prompts_used.txt

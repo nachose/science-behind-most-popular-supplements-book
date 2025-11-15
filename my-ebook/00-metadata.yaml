@@ -1,0 +1,15 @@
+title: "C++ for Low-Latency Systems"
+pagetitle: "C++ for Low-Latency Systems"
+author: "Jose Ignacio Seco Sanz"
+language: "en"
+rights: "© 2025 Jose Ignacio Seco Sanz"
+# Added through makefile
+# identifier: "urn:uuid:$(uuidgen)"
+publisher: "Jose Ignacio Seco Sanz"
+# cover-image: cover.png    # Optional: provide a 1600x2560 cover if you want
+
+# It seems this metadata is specific of epub 3
+# epub-metadata: |
+#   <meta property="rendition:layout">reflowable</meta>
+#   <meta property="rendition:orientation">auto</meta>
+#   <meta property="rendition:spread">auto</meta>
