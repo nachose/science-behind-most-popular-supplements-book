@@ -2,8 +2,8 @@
 
 ## Chapter Outline
 
-- **Synthesis of key findings**  
-  Common themes across supplements: evidence strength, bioavailability challenges, and diet-first principle.
+- **Synthesis of key findings**
+  - Common themes across supplements: evidence strength, bioavailability challenges, and diet-first principle.
 
 - **Guidance on personalized supplement use**  
   Assessing individual needs, blood testing, and lifestyle factors.
