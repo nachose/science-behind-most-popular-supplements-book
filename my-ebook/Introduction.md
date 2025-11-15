@@ -2,8 +2,8 @@
 
 ## Chapter Outline
 
-- **The booming supplement industry**  
-  Market size, growth trends, and consumer spending patterns.
+- **The booming supplement industry**
+  - Market size, growth trends, and consumer spending patterns.
 
 - **Rise of over-the-counter supplements**  
   Accessibility, marketing influences, and shift from prescription to self-care.
