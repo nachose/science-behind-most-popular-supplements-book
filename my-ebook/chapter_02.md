@@ -2,7 +2,7 @@
 
 ## Chapter Outline
 
-- **What is Vitamin D**  
+- **Introduction to Vitamin D**  
   Sources, forms (D2 vs. D3), and synthesis in the body.
 
 - **Physiological roles**  
