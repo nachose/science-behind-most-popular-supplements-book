@@ -1,11 +1,11 @@
 
 # Checklist for Publishing a book.
 
-- [ ] Generate book outline and chapter outlines.
-- [ ] Create book repository.
-- [ ] Create develop branch and check it out.
-- [ ] Copy files from template.
-- [ ] Add outlines to github repo.
+- [X] Generate book outline and chapter outlines.
+- [X] Create book repository.
+- [X] Create develop branch and check it out.
+- [X] Copy files from template.
+- [X] Add outlines to github repo.
 - [ ] Rename chapter files if needed.
 - [ ] If needed, create part files.
 - [ ] Modify makefile.

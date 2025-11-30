@@ -1,7 +1,18 @@
-BOOK=cpp_low_latency
-CHAPTERS=01-introduction.md \
-	 02-getting-started.md \
-	 03-advanced-topics.md
+BOOK=science_of_supplements
+CHAPTERS=001-preface.md \
+		Introduction.md \
+		chapter_01.md \
+		chapter_02.md \
+		chapter_03.md \
+		chapter_04.md \
+		chapter_05.md \
+		chapter_06.md \
+		chapter_07.md \
+		chapter_08.md \
+		chapter_09.md \
+		chapter_10.md \
+		Conclusion.md
+
 
 METADATA_FILE=00-metadata.yaml
 
