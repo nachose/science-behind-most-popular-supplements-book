@@ -3,8 +3,8 @@ name: Spell Check
 on:
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
+  # pull_request:
+  #   branches: [ main ]
 
 jobs:
   spellcheck:
@@ -12,7 +12,7 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v5
 
       - name: Install aspell
         run: sudo apt-get update && sudo apt-get install -y aspell aspell-en
