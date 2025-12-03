@@ -196,4 +196,4 @@ The results of these and other studies have important real-world applications.
 
 In conclusion, the scientific evidence on multivitamins is complex and sometimes contradictory. However, by looking at the results of large-scale population studies and clinical trials, we can gain a better understanding of their potential benefits and risks.
 
-This concludes Chapter 1 on Multivitamins. In the next chapter, we will explore the science behind another popular supplement: Omega-3 Fatty Acids.
+This concludes Chapter 1 on Multivitamins. In the next chapter, we will explore the science behind another popular supplement: Vitamin D.
