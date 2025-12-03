@@ -68,7 +68,7 @@ Clinical trials have shown that Vitamin D supplementation is an effective way to
 
 There is a growing body of evidence to suggest that Vitamin D may play a role in mood regulation.
 
-*   **Seasonal Affective Disorder (SAD):** This is a type of depression that is related to changes in seasons. Some studies have suggested that Vitamin D supplementation may be an effective treatment for SAD.
+*   **Seasonal Affective Disorder (SAD):** This is a type of depression that is related to seasonal changes.
 *   **Depression:** Some studies have found a link between low levels of Vitamin D and an increased risk of depression. However, the evidence is not conclusive, and more research is needed.
 
 ### Chronic Disease Risk Reduction
