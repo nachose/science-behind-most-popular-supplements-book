@@ -135,7 +135,7 @@ Omega-3 supplements can interact with certain medications, primarily due to thei
 *   **Anticoagulants and antiplatelet drugs:** As mentioned, omega-3s can enhance the effects of these medications, potentially increasing the risk of bleeding. Close monitoring by a healthcare professional is recommended.
 *   **Blood pressure medications:** Omega-3s can modestly lower blood pressure. If taken with antihypertensive drugs, there is a theoretical risk of additive effects, potentially leading to blood pressure that is too low. However, this interaction is generally considered minor at typical doses.
 
-It is crucial to inform your doctor about all supplements you are taking, especially if you are on any prescription medications.
+You should inform your doctor about all supplements you are taking, especially if you are on any prescription medications.
 
 ## Dosing Guidelines
 
