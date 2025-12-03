@@ -45,8 +45,5 @@ jobs:
 
       - name: Run epubcheck on first book
         run: |
-          java -jar epubcheck-5.0.0/epubcheck.jar ./epub-artifacts/cpp_low_latency.epub
+          java -jar epubcheck-5.0.0/epubcheck.jar ./epub-artifacts/science_of_supplements.epub
 
-      - name: Run epubcheck on second book
-        run: |
-          java -jar epubcheck-5.0.0/epubcheck.jar ./epub-artifacts/cpp_low_latency2.epub
