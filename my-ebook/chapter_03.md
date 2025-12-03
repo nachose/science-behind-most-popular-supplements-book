@@ -169,7 +169,7 @@ For vegetarians and vegans, obtaining adequate EPA and DHA can be challenging, a
 *   **Algal Oil:** Derived from microalgae, this is a direct vegan source of both EPA and DHA, bypassing the need for conversion from ALA. It is an excellent option for those avoiding animal products.
 *   **ALA-rich foods and supplements:** While the conversion of ALA to EPA and DHA is inefficient, consuming a sufficient amount of ALA from flaxseeds, chia seeds, walnuts, and their oils can contribute to omega-3 status. However, it is generally recommended for vegans to consider algal oil for direct EPA and DHA intake.
 
-Given the wide array of options, individuals can choose the form and source of omega-3s that best suits their dietary preferences and health needs, always with guidance from a healthcare professional.
+Given the wide array of options, individuals can choose the form and source of omega-3s that best suits their dietary preferences and health needs. This choice should always be made with guidance from a healthcare professional.
 
 ## Practical Insights
 
