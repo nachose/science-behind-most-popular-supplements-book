@@ -27,7 +27,7 @@ $(BOOK).epub: $(METADATA_FILE) $(CHAPTERS)
 	       --css=epub-fix.css \
 	       --verbose \
 	       --log generate_pandoc.log \
-				 --metadata="identifier:urn:uuid:$(shell uuidgen)
+				 --metadata="identifier:urn:uuid:$(shell uuidgen)"
 
 clean:
 	rm -f $(BOOK).epub
