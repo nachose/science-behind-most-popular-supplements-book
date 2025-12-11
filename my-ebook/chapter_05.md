@@ -49,9 +49,9 @@ Despite its prevalence, magnesium deficiency is notoriously difficult to diagnos
 ### Symptoms of Deficiency
 
 Magnesium deficiency, or **hypomagnesemia**, can present with a wide spectrum of non-specific symptoms, which is why it often goes overlooked. In the early stages, symptoms may include fatigue, general weakness, and loss of appetite. However, as the deficiency becomes more pronounced, the neurological and muscular effects become dominant, consistent with magnesium's role as a muscle and nerve regulator. These symptoms include:
-*   **Muscular:** Muscle cramps, tremors, twitches, restless legs syndrome, and generalized muscle weakness.
-*   **Neurological:** Anxiety, irritability, insomnia, hyper-vigilance, and in severe cases, seizures.
-*   **Cardiovascular:** Heart palpitations and arrhythmias due to its role in maintaining a steady heart rhythm.
+* **Muscular:** Muscle cramps, tremors, twitches, restless legs syndrome, and generalized muscle weakness.
+* **Neurological:** Anxiety, irritability, insomnia, hyper-vigilance, and in severe cases, seizures.
+* **Cardiovascular:** Heart palpitations and arrhythmias due to its role in maintaining a steady heart rhythm.
 
 It is important to note that many of these symptoms are shared with other common conditions, necessitating a comprehensive approach to diagnosis.
 
