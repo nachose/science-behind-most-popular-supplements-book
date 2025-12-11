@@ -103,7 +103,7 @@ It is generally recommended to split the daily dose into two servings (morning a
 
 Ashwagandha is not a supplement with acute effects; its benefits are cumulative and typically take **two to three weeks** of consistent daily use to become noticeable, with maximal benefits often appearing after four to eight weeks.
 
-**Cycling:** While ashwagandha has a good safety profile for long-term use (up to several months in clinical trials), the concept of **cycling** is often recommended by practitioners. Cycling involves taking the supplement for a defined period (e.g., 8-12 weeks) followed by a short break (e.g., 2-4 weeks).
+#### Cycling
 
 The rationale behind cycling is twofold:
 1.  **Preventing Tolerance:** Although evidence is sparse, cycling is an anecdotal strategy to prevent the body from becoming overly accustomed to the adaptogen, thereby maintaining its efficacy.
