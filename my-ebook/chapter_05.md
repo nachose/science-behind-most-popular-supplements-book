@@ -97,9 +97,9 @@ The timing of magnesium intake can influence its effectiveness based on the goal
 
 Magnesium is often synergistic with other micronutrients:
 
-*   **Vitamin D:** Magnesium is an essential cofactor for the enzymes responsible for metabolizing Vitamin D into its active form. Without adequate magnesium, high-dose Vitamin D supplementation can be ineffective or, paradoxically, can deplete magnesium stores, worsening deficiency symptoms.
-*   **Vitamin B6:** Vitamin B6 (Pyridoxine) is required for magnesium to effectively enter the cell. Studies have shown that combining magnesium with Vitamin B6 can enhance the mineral's anti-stress and mood-stabilizing effects.
-*   **Potassium:** In severe cases of deficiency, magnesium repletion is often necessary to correct accompanying low potassium (hypokalemia) and calcium (hypocalcemia), as the minerals work in concert to maintain fluid and electrolyte balance.
+* **Vitamin D:** Magnesium is an essential cofactor for the enzymes responsible for metabolizing Vitamin D into its active form. Without adequate magnesium, high-dose Vitamin D supplementation can be ineffective or, paradoxically, can deplete magnesium stores, worsening deficiency symptoms.
+* **Vitamin B6:** Vitamin B6 (Pyridoxine) is required for magnesium to effectively enter the cell. Studies have shown that combining magnesium with Vitamin B6 can enhance the mineral's anti-stress and mood-stabilizing effects.
+* **Potassium:** In severe cases of deficiency, magnesium repletion is often necessary to correct accompanying low potassium (hypokalemia) and calcium (hypocalcemia), as the minerals work in concert to maintain fluid and electrolyte balance.
 
 ## Broader Implications: Magnesium and Longevity
 
