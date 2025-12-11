@@ -104,7 +104,7 @@ It is essential to read supplement labels carefully: the dosage must refer to th
 For the vast majority of consumers, using a formulation that includes piperine (a branded extract like BioPerine is common) is the simplest and most cost-effective way to enhance absorption.
 
 *   **Ratio:** The ideal ratio, as established in human clinical trials, is a small amount of piperine to a larger amount of curcumin. Supplements typically provide **5 mg to 10 mg of piperine** alongside a 500 mg dose of curcuminoids. This combination has been shown to increase the bioavailability of curcumin by up to 2,000%.
-*   **Mechanism:** As a general rule, the supplement should be taken with food, as curcumin is fat-soluble (lipophilic). The fat content of the meal further assists its absorption in the small intestine.
+*   **Administration:** As a general rule, the supplement should be taken with food, as curcumin is fat-soluble (lipophilic). The fat content of the meal further assists its absorption in the small intestine.
 
 ### Advanced Bio-Enhanced Forms
 
