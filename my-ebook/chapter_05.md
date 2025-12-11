@@ -90,8 +90,8 @@ For general supplementation, high-bioavailability forms like glycinate or malate
 
 The timing of magnesium intake can influence its effectiveness based on the goal:
 
-*   **For Sleep and Relaxation:** Magnesium's calming effects are most pronounced when taken in the evening, ideally 30 to 60 minutes before bedtime. Forms like magnesium glycinate or chloride are excellent for this purpose.
-*   **For Energy and Muscle Function:** For athletes or those experiencing general fatigue, magnesium can be taken in the morning or divided throughout the day. Taking a dose post-workout can also aid in muscle recovery by promoting relaxation and reducing delayed-onset muscle soreness (DOMS).
+* **For Sleep and Relaxation:** Magnesium's calming effects are most pronounced when taken in the evening, ideally 30 to 60 minutes before bedtime. Forms like magnesium glycinate or chloride are excellent for this purpose.
+* **For Energy and Muscle Function:** For athletes or those experiencing general fatigue, magnesium can be taken in the morning or divided throughout the day. Taking a dose post-workout can also aid in muscle recovery by promoting relaxation and reducing delayed-onset muscle soreness (DOMS).
 
 ### Combination Therapies
 
