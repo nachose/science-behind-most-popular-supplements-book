@@ -120,7 +120,7 @@ The story of turmeric is a fascinating blend of ancient wisdom and modern scient
 
 ### The Foundation of Ancient Healing
 
-In traditional systems like **Ayurveda** and **Traditional Chinese Medicine (TCM)**, turmeric was utilized as a panacea for a wide range of ailments. It was primarily known as a *hot* or *heating* herb, used to "purify the body," "cleanse the blood," and "warm the stomach." Its applications were broad:
+In traditional systems like **Ayurveda** and **Traditional Chinese Medicine (TCM)**, turmeric was utilized as a panacea for a wide range of ailments. It was primarily known as a *hot* or *heating* herb, used to *purify the body*, *cleanse the blood*, and *warm the stomach*. Its applications were broad:
 
 *   **Ayurveda:** Used topically for skin diseases and wound healing, orally for digestive disorders, as an anti-inflammatory agent for joint pain, and as a general tonic for liver health. The concept of its anti-inflammatory and antiseptic properties was understood qualitatively long before the discovery of NF-kB.
 *   **TCM:** Primarily used to move *qi* (life force) and blood, particularly to relieve pain caused by stagnation and to address abdominal pain and jaundice.
