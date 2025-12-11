@@ -108,8 +108,8 @@ Beyond its acute effects on muscle, nerve, and sleep function, magnesium plays a
 ### Role in Metabolic Health
 
 Magnesium is intrinsically involved in glucose metabolism and insulin signaling. It serves as a necessary co-factor for the enzymes that facilitate the uptake and utilization of glucose. Studies have robustly demonstrated that low magnesium levels are highly correlated with **insulin resistance**, a precursor to Type 2 diabetes. The proposed mechanism is twofold:
-1.  **Impaired Insulin Secretion:** Magnesium is required for the beta cells of the pancreas to release insulin effectively.
-2.  **Reduced Insulin Sensitivity:** Magnesium is necessary for the insulin receptor to properly signal within the cell, allowing glucose to be transported out of the bloodstream.
+1. **Impaired Insulin Secretion:** Magnesium is required for the beta cells of the pancreas to release insulin effectively.
+2. **Reduced Insulin Sensitivity:** Magnesium is necessary for the insulin receptor to properly signal within the cell, allowing glucose to be transported out of the bloodstream.
 
 A deficiency can thus lead to a cascading failure in blood sugar control. Clinical trials suggest that magnesium supplementation can improve insulin sensitivity in individuals with low magnesium status and may serve as an effective preventative strategy for those at risk of metabolic syndrome.
 
