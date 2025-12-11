@@ -101,7 +101,7 @@ As established, the key to efficacy is choosing **hydrolyzed collagen peptides**
 
 | Target Benefit | Recommended Collagen Type | Recommended Daily Dose | Duration to See Results |
 | :--- | :--- | :--- | :--- |
-| **Skin, Hair, & Nails** | Type I & III (Bovine or Marine) | 5 grams to 10 grams | 8 to 12 weeks |
+| **Skin, Hair, and Nails** | Type I & III (Bovine or Marine) | 5 grams to 10 grams | 8 to 12 weeks |
 | **Joint Pain (Osteoarthritis)** | Hydrolyzed Type II or Specific Peptides | 10 grams to 15 grams | 12 to 24 weeks |
 | **Joint Pain (Immunomodulatory)** | Undenatured Type II (UC-II) | 40 mg | 8 to 12 weeks |
 | **Bone Density** | Type I (Bovine or Marine) | 5 grams to 10 grams | 6 months to 1 year |
