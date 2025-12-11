@@ -53,7 +53,7 @@ For joint health, collagen supplementation, particularly non-denatured Type II c
 Collagen is vital for tissue repair, and supplementation is a subject of research for specific clinical applications:
 
 -   **Wound and Burn Healing:** As collagen provides the matrix for new tissue formation, supplemental collagen has been studied to accelerate the healing of pressure ulcers, surgical wounds, and burns. It provides the necessary precursors and signaling peptides to rebuild damaged tissue.
--   **Bone Mineral Density (BMD):** Because bone is composed largely of Type I collagen, several RCTs have investigated collagen’s role in bone health, particularly in postmenopausal women. The findings suggest that collagen peptides, in conjunction with calcium and Vitamin D, can increase BMD, potentially by stimulating osteoblasts (bone-forming cells) and mitigating bone degradation.
+-   **Bone Mineral Density (BMD):** Because bone is composed largely of Type I collagen, several RCTs have investigated collagen's role in bone health, particularly in postmenopausal women. The findings suggest that collagen peptides, in conjunction with calcium and Vitamin D, can increase BMD, potentially by stimulating osteoblasts (bone-forming cells) and mitigating bone degradation.
 
 In summary, the science supports collagen's efficacy, particularly for skin health (elasticity, hydration, wrinkles) and joint comfort (reducing OA and activity-related pain). The key to achieving these benefits is consistency, adequate dosage, and using the correct type of collagen for the desired outcome.
 
