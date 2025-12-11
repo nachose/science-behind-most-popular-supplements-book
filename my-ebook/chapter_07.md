@@ -26,7 +26,7 @@ Beyond stress, ashwagandha contains properties that are beneficial for brain hea
 
 ### Thyroid Gland Support
 
-An often-cited, though less understood, physiological effect of ashwagandha is its influence on the thyroid gland. The thyroid and the HPA axis are intimately connected, and chronic stress can often suppress thyroid function. Some clinical evidence suggests that ashwagandha may act as a thyroid stimulant in individuals with subclinical hypothyroidism (a mild under-active thyroid). It appears to increase the serum levels of thyroid hormones, specifically thyroxine (T4) and triiodothyronine (T3). However, it is important to note that this effect is generally seen in those with compromised function and does not typically push hormone levels into a hyperthyroid range in healthy individuals. Due to this potential interaction, individuals with existing thyroid conditions should consult a physician before supplementation.
+Some clinical evidence suggests that ashwagandha may act as a thyroid stimulant in individuals with subclinical hypothyroidism (a mild underactive thyroid). It appears to increase the serum levels of thyroid hormones, specifically thyroxine (T4) and triiodothyronine (T3). However, it is important to note that this effect is generally seen in those with compromised function and does not typically push hormone levels into a hyperthyroid range in healthy individuals. Due to this potential interaction, individuals with existing thyroid conditions should consult a physician before supplementation.
 
 ## Evidence from Studies: The Clinical Picture
 
