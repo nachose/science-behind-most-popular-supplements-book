@@ -32,7 +32,7 @@ Before purchasing any supplement, the user should ask a foundational question: _
 
 1.  **Lifestyle and Diet:** Analyze your daily habits.
     - **High Stress/Poor Sleep:** Supplements like **Ashwagandha** or **Magnesium** are logical choices to modulate the HPA axis and support relaxation.
-    - **Plant-Based Diet:** Increased risk of deficiencies in **Creatine** and **Vitamin B12** (not covered, but often deficient), necessitating supplementation to maintain energy and neurological health.
+    - **Plant-Based Diet:** Increased risk of deficiencies in **Creatine** and **Vitamin B12**, necessitating supplementation to maintain energy and neurological health.
     - **Low Sun Exposure:** A strong indication for **Vitamin D** supplementation.
     - **High-Intensity Training:** **Creatine** is essential for optimizing performance and recovery.
 
