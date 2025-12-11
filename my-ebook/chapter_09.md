@@ -37,7 +37,7 @@ Perhaps the most critical function of Vitamin C is its role in the synthesis of 
 Vitamin C is profoundly involved in supporting the innate and adaptive immune systems, making it a crucial nutrient for defense against pathogens.
 
 -   **Phagocytic Cells:** It concentrates in high levels within immune cells, such as phagocytes (which engulf and destroy invaders) and lymphocytes (B-cells and T-cells). In these cells, Vitamin C protects the immune cells themselves from the oxidative damage generated as they fight off bacteria and viruses.
--   **T-Cell Production:** It is required for the proper differentiation and proliferation of T-cells, which are central to the body’s coordinated adaptive immune response.
+-   **T-Cell Production:** It is required for the proper differentiation and proliferation of T-cells, which are central to the body's coordinated adaptive immune response.
 -   **Barrier Function:** By supporting collagen synthesis, Vitamin C helps maintain the integrity of the epithelial barriers (skin and mucous membranes) that act as the first line of defense against invasion.
 
 ### 3. Enhancing Non-Heme Iron Absorption
