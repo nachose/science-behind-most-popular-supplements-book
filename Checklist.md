@@ -6,13 +6,13 @@
 - [X] Create develop branch and check it out.
 - [X] Copy files from template.
 - [X] Add outlines to github repo.
-- [ ] Rename chapter files if needed.
-- [ ] If needed, create part files.
-- [ ] Modify makefile.
-- [ ] Modify book metadata.
-- [ ] Make continuous integration work.
-- [ ] Generate content of chapters.
-- [ ] If needed, generate images/diagrams.
+- [X] Rename chapter files if needed.
+- [X] If needed, create part files.
+- [X] Modify makefile.
+- [X] Modify book metadata.
+- [X] Make continuous integration work.
+- [X] Generate content of chapters.
+- [X] If needed, generate images/diagrams.
 - [ ] Generate book cover.
 - [ ] Create book description.
 - [ ] Fill in book metadata in kdp.
