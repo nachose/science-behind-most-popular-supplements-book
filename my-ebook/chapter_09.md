@@ -44,7 +44,7 @@ Vitamin C is profoundly involved in supporting the innate and adaptive immune sy
 
 Another vital function of Vitamin C is its ability to significantly increase the bioavailability of dietary iron. Iron from plant sources (**non-heme iron**) is difficult for the body to absorb.
 
--   **Conversion Mechanism:** When Vitamin C is consumed with a plant-based iron source, it chemically reduces ferric iron (Fe3+) to the more soluble and more readily absorbed ferrous iron (Fe2+) within the digestive tract.
+-   **Conversion Mechanism:** When Vitamin C is consumed with a plant-based iron source, it chemically reduces ferric iron (Fe<sup>3+</sup>) to the more soluble and more readily absorbed ferrous iron (Fe<sup>2+</sup>) within the digestive tract.
 -   **Anemia Prevention:** This function is particularly important for vegetarians, vegans, and others at risk of iron-deficiency anemia, as even small amounts of Vitamin C can triple the amount of non-heme iron absorbed from a meal.
 
 ### 4. Neurotransmitter and Hormone Synthesis
