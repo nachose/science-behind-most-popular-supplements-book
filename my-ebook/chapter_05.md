@@ -122,9 +122,9 @@ Furthermore, its role in maintaining a stable heart rhythm is critical. Magnesiu
 ### Epidemiological Data
 
 Large-scale population studies (epidemiology) overwhelmingly support the concept that higher magnesium intake is a protective factor against chronic disease. Analysis of cohorts such as the Nurses' Health Study and the Health Professionals Follow-up Study has consistently shown that individuals with the highest dietary intake of magnesium have a significantly lower incidence of:
-*   **Type 2 Diabetes:** Up to a 15-20% reduced risk.
-*   **Cardiovascular Disease (CVD):** Lower risk of ischemic heart disease and lower mortality rates from all cardiovascular causes.
-*   **Colorectal Cancer:** Some studies indicate a protective effect against certain cancers, likely due to its role in DNA repair and cell stability.
+* **Type 2 Diabetes:** Up to a 15-20% reduced risk.
+* **Cardiovascular Disease (CVD):** Lower risk of ischemic heart disease and lower mortality rates from all cardiovascular causes.
+* **Colorectal Cancer:** Some studies indicate a protective effect against certain cancers, likely due to its role in DNA repair and cell stability.
 
 In summary, magnesium is a foundational nutrient that goes far beyond simple cramp prevention. It is a powerful yet underappreciated modulator of the body's major systems—neurological, muscular, and metabolic. Given the high prevalence of subclinical deficiency and the broad, protective health benefits associated with adequate intake, it remains one of the most compelling supplements for those seeking to optimize their health and extend their vitality.
 
