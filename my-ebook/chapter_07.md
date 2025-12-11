@@ -42,7 +42,7 @@ Crucially, these self-reported improvements often correlate with physiological c
 
 In recent years, ashwagandha has gained traction in sports nutrition due to its apparent ergogenic (performance-enhancing) properties. Studies involving athletic and non-athletic populations suggest that the supplement can positively impact muscle strength and recovery.
 
-RCTs investigating strength have shown that, when combined with resistance training, ashwagandha supplementation leads to greater increases in muscle strength (e.g., bench press and leg extension) and muscle mass compared to a placebo. Furthermore, the herb may play a role in optimizing post-exercise recovery by mitigating muscle damage. One proposed mechanism is that its anti-inflammatory and anti-oxidant properties help to reduce markers of muscle injury and expedite the repair process. For athletes, this can translate to reduced recovery time and improved training consistency.
+RCTs investigating strength have shown that, when combined with resistance training, ashwagandha supplementation leads to greater increases in muscle strength (e.g., bench press and leg extension) and muscle mass compared to a placebo. Furthermore, the herb may play a role in optimizing post-exercise recovery by mitigating muscle damage. One proposed mechanism is that its anti-inflammatory and antioxidant properties help to reduce markers of muscle injury and expedite the repair process. For athletes, this can translate to reduced recovery time and improved training consistency.
 
 ### Improving Sleep Quality
 
