@@ -2,7 +2,45 @@
 
 ## Defining collagen
 
-Types (I, II, III), sources (bovine, marine), and structural roles.
+Collagen is the most abundant protein in the human body, accounting for approximately 30% of total protein content. It serves as the primary structural component of connective tissues, providing strength, elasticity, and support to various organs and systems. As the body's natural scaffolding, collagen forms the extracellular matrix that holds cells together and maintains tissue integrity.
+
+### Types of Collagen
+
+There are at least 28 different types of collagen identified in the human body, but the most common and clinically relevant ones are Types I, II, and III. These types differ in their amino acid composition, tissue distribution, and functional roles:
+
+- **Type I Collagen:** The most prevalent type, comprising about 90% of the body's collagen. It provides tensile strength and is found in skin, tendons, ligaments, bones, and organs. Type I collagen forms thick, rope-like fibers that resist stretching and tearing, making it essential for structural support.
+
+- **Type II Collagen:** Predominantly found in cartilage, where it forms a flexible network that cushions joints and absorbs shock. This type is crucial for joint health and is often used in supplements targeting osteoarthritis and joint mobility.
+
+- **Type III Collagen:** Often found alongside Type I, particularly in skin, muscles, and blood vessels. It contributes to tissue elasticity and is important for wound healing and maintaining vascular integrity. Type III collagen is more elastic than Type I and helps tissues return to their original shape after deformation.
+
+### Sources of Supplemental Collagen
+
+Supplemental collagen is typically derived from animal sources, as plants do not produce true collagen. The most common sources include:
+
+- **Bovine (Cow):** Primarily provides Type I and III collagen, sourced from cow hides, bones, or tendons. Bovine collagen is widely available and cost-effective, making it a popular choice for general supplementation.
+
+- **Marine (Fish):** Derived from fish skin or scales, mainly yielding Type I collagen. Marine collagen is often preferred for its smaller peptide size and potentially better absorption, though it may contain higher levels of contaminants if not properly sourced.
+
+- **Chicken:** Obtained from chicken sternum cartilage, rich in Type II collagen. This source is specifically used for joint health supplements due to its cartilage-specific composition.
+
+- **Eggshell Membrane:** A newer source providing Types I, III, and V collagen, along with other beneficial compounds like glucosamine and chondroitin.
+
+### Structural Roles in the Body
+
+Collagen's structural functions extend beyond mere support; it plays critical roles in maintaining tissue homeostasis and facilitating cellular communication:
+
+- **Skin Integrity:** In the dermis, collagen fibers create a resilient network that maintains skin firmness and elasticity, preventing sagging and wrinkle formation.
+
+- **Joint and Cartilage Support:** Collagen forms the framework of articular cartilage, providing cushioning and lubrication for smooth joint movement.
+
+- **Bone Strength:** Type I collagen constitutes the organic matrix of bones, mineralized with calcium and phosphorus to create rigid, load-bearing structures.
+
+- **Tendon and Ligament Function:** These tissues rely on collagen's tensile strength to transmit forces between muscles and bones.
+
+- **Organ Structure:** Collagen supports the architecture of organs like the liver, kidneys, and heart, ensuring proper function and preventing prolapse.
+
+As we age, collagen production naturally declines, leading to visible signs of aging and reduced tissue resilience. This decline begins around age 25 and accelerates after menopause or andropause, making collagen supplementation a logical approach to support the body's structural needs.
 
 ## Mechanisms of Action: How Supplemental Collagen Works
 
