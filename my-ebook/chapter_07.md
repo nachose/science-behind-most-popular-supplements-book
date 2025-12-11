@@ -89,7 +89,7 @@ Consumers generally encounter ashwagandha in two main forms: root powder and sta
 1.  **Full-Spectrum Root Powder:** This form is the powdered, dried root of the *Withania somnifera* plant. Doses typically range from 3,000 mg to 6,000 mg per day. While it contains the full complement of the plant’s compounds, the concentration of withanolides can vary significantly, making the exact therapeutic dose inconsistent. This form is often used in traditional Ayurvedic preparations.
 2.  **Standardized Root Extracts:** This is the most common and scientifically studied form. These extracts are concentrated to contain a guaranteed minimum percentage of withanolides, typically 1.5% to 5.0%. Standardizing the extract ensures consistency in potency, which is critical for replicating clinical benefits.
 
-**Recommended Dosage for Standardized Extracts:**
+### Recommended Dosage for Standardized Extracts
 
 Most clinical trials reporting positive effects on stress, anxiety, and sleep utilize standardized root extracts, typically dosed as follows:
 
