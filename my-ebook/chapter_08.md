@@ -6,7 +6,7 @@ Collagen is the most abundant protein in the human body, accounting for approxim
 
 ### Types of Collagen
 
-There are at least 28 different types of collagen identified in the human body, but the most common and clinically relevant ones are Types I, II, and III. These types differ in their amino acid composition, tissue distribution, and functional roles:
+There are at least 28 different types of collagen identified in the human body, but the most common and clinically relevant ones are Types I, II, and III (though other types like Type V are also found in supplements). These types differ in their amino acid composition, tissue distribution, and functional roles:
 
 - **Type I Collagen:** The most prevalent type, comprising about 90% of the body's collagen. It provides tensile strength and is found in skin, tendons, ligaments, bones, and organs. Type I collagen forms thick, rope-like fibers that resist stretching and tearing, making it essential for structural support.
 
