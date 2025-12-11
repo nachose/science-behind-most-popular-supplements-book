@@ -34,7 +34,7 @@ Curcumin is a powerful **antioxidant**, capable of neutralizing unstable molecul
 
 The most significant and clinically relevant mechanism of curcumin is its profound **anti-inflammatory action**. Inflammation is a necessary short-term immune response, but when it becomes chronic, it contributes to nearly every major non-communicable disease, including heart disease, cancer, and neurodegenerative disorders.
 
-Curcumin’s power lies in its ability to directly modulate the activity of **Nuclear Factor-kappa B (NF-kB)**. NF-kB is a protein complex that acts as a master switch, sitting at the junction of genetic pathways that regulate inflammation. When activated by stress, pathogens, or cellular damage, NF-kB enters the cell nucleus and turns on genes that code for pro-inflammatory substances like cytokines (e.g., TNF-α, IL-6) and enzymes (e.g., COX-2).
+Curcumin's power lies in its ability to directly modulate the activity of **Nuclear Factor-kappa B (NF-kB)**. NF-kB is a protein complex that acts as a master switch, sitting at the junction of genetic pathways that regulate inflammation. When activated by stress, pathogens, or cellular damage, NF-kB enters the cell nucleus and turns on genes that code for pro-inflammatory substances like cytokines (e.g., TNF-α, IL-6) and enzymes (e.g., COX-2).
 
 Curcumin is a powerful inhibitor of this activation. By blocking the signaling cascade that leads to NF-kB activation, curcumin effectively cuts off the inflammation signal at its source. This ability to downregulate chronic, systemic inflammation is what makes curcumin a subject of such intense research across a wide spectrum of inflammatory-driven diseases.
 
