@@ -9,3 +9,4 @@ in the Ubuntu base image. It might be worth trying a different base image (e.g.,
 https://bagelquant.com/pandoc-with-mermaid/
 
 I have been unable to get this working. I may revisit this in the future.
+
